@@ -1,0 +1,106 @@
+{
+  "type": "PolarBear",
+  "designPoint": [
+    -1660,
+    -1941
+  ],
+  "scale": 0.5,
+  "areaId2ChildPadIndexString": {},
+  "widgetId2ChildPad": {},
+  "forkDependencies": [],
+  "mainDependencies": [
+    {
+      "version": "1.0.0",
+      "module": "@lugia/lugia-web",
+      "widgetName": "Button"
+    }
+  ],
+  "forkPad": {
+    "point": [
+      -1660,
+      -1941
+    ],
+    "width": 5000,
+    "index": 0,
+    "height": 5000,
+    "zIndex": 4000,
+    "type": "ForkPad",
+    "layers": [],
+    "idSeq": 67,
+    "id2WidgetInfo": {},
+    "id": "forkPad",
+    "lastIndex": 41,
+    "group": false,
+    "templateConfig": {}
+  },
+  "mainPad": {
+    "point": [
+      -120,
+      19
+    ],
+    "width": 1920,
+    "index": 0,
+    "height": 1080,
+    "zIndex": 4000,
+    "type": "MainPad",
+    "layers": [
+      {
+        "i": "wbzrgZ72",
+        "z": 0,
+        "w": 98,
+        "h": 32,
+        "p": [
+          532,
+          184
+        ]
+      }
+    ],
+    "idSeq": 91291,
+    "id2WidgetInfo": {
+      "wbzrgZ72": {
+        "w": "Button",
+        "m": "@lugia/lugia-web",
+        "v": "1.0.0",
+        "p": {
+          "lugiaHidden": false,
+          "block": false,
+          "viewClass": "Button-m-theme-viewClass",
+          "icon": "lugia-icon-direction_left-square"
+        },
+        "i": "wbzrgZ72"
+      }
+    },
+    "id": "mainPad",
+    "lastIndex": 71,
+    "group": false,
+    "templateConfig": {},
+    "backgroudColor": "#f8f8f8"
+  },
+  "themes": {
+    "widgetId2ThemeInfo": {}
+  },
+  "lugiax": {
+    "page2mutation": {},
+    "widgetId2PropsName2BindInfo": {},
+    "widgetId2EventName2MutationInfo": {},
+    "pageData": {
+      "dependenciesModels": [],
+      "state": {},
+      "scripts": {},
+      "bindEvent": {},
+      "lifeScripts": {},
+      "actionConfig": {},
+      "actionComponent": {},
+      "actionModel": {},
+      "actionExternal": {}
+    }
+  },
+  "assets": {
+    "widgetIdHasAssetPropsName": {},
+    "widgetIdHasAssetThemeName": {}
+  },
+  "widgetId2Locked": {},
+  "widgetId2Hidden": {},
+  "widgetId2Title": {},
+  "zip": true
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "UqOQCzFK3",
+    "title": "page_1",
+    "name": "page_1",
+    "route": [
+      "/UqOQCzFK3"
+    ],
+    "icon": "lugia-icon-financial_editor",
+    "width": 1920,
+    "height": 1080,
+    "model": "",
+    "backgroundColor": "#f8f8f8",
+    "createDate": "2021-04-03 02:10",
+    "pageSize": "1920*1080",
+    "type": "PolarBear",
+    "lugiaMega": {},
+    "isSide": true,
+    "isTop": false
+  }
+]
